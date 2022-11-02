@@ -7,7 +7,7 @@ Java dependency)
 
 1. **[pymmcore](https://github.com/micro-manager/pymmcore)** *(not in this org)*
 
-   `pymmcore` is a [SWIG](https://www.swig.org/) around the C++ code at the core
+   `pymmcore` is a [SWIG](https://www.swig.org/) wrapper around the C++ code at the core
    of micro-manager ([mmCoreAndDevices](https://github.com/micro-manager/mmCoreAndDevices))
    
    > **side-note**: there is a common misconception that micro-manager is written in Java.
